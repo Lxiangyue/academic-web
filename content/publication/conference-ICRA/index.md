@@ -1,5 +1,5 @@
 ---
-title: "RPR: Representation, Triangulation, and Camera Estimation"
+title: "Structure Reconstruction Using Ray-Point-Ray Features: Representation, Triangulation and Camera Pose Estimation"
 authors:
 - Yijia He
 - admin
@@ -23,7 +23,7 @@ publication_types: ["1"]
 publication: In *ICRA 2021 (Submitted)*
 publication_short: In *International Conference on Robotics and Automation (ICRA) (Submitted)*
 
-abstract: How to use the constraint of intersection of straight lines in 3D reconstruction mainly involves two problems, one is how to express the intersection of straight lines, and the other is whether the intersection of straight lines can be used to estimate the camera pose and how to use it. In this paper, we conduct formula derivation and experimental verification for these two problems. And we propose three main innovations in this paper, (a) A minimum parameterized representation method for rpr structure and a triangulation method. (b) An efficient camera pose estimation method based on 1 rpr90 + 1 point is proposed. By directly solving a one-variable quartic equation, the camera pose is solved efficiently and stably. (c) A straight line slam algorithm considering the intersection constraint of straight lines is built and verified on different datasets.
+abstract: Straight lines are increasingly used in visual SLAM and 3D reconstruction systems. Recently, the parameter representation and triangulation of straight lines have been studied, and moreover the parallel and co-planar constraints between straight lines have been used in SLAM systems. However, how to use the intersection constraint of straight lines is rarely mentioned. In this paper, We propose a new parameter representation for the intersection of two straight lines, namely Ray-Point-Ray Features. We also propose a new method to solve the absolute camera pose using the orthogonal constraint of straight lines. Finally, we built a slam system based on rpr features, and verified it on both simulation and real datasets.
 
 
 # Summary. An optional shortened abstract.
