@@ -23,8 +23,8 @@ publication_types: ["1"]
 publication: In *ICRA 2021 (Submitted)*
 publication_short: In *International Conference on Robotics and Automation (ICRA) (Submitted)*
 
-abstract: Straight lines are increasingly used in visual SLAM and 3D reconstruction systems. Recently, the parameter representation and triangulation of straight lines have been studied, and moreover the parallel and co-planar constraints between straight lines have been used in SLAM systems. However, how to use the intersection constraint of straight lines is rarely mentioned. In this paper, We propose a new parameter representation for the intersection of two straight lines, namely Ray-Point-Ray Features. We also propose a new method to solve the absolute camera pose using the orthogonal constraint of straight lines. Finally, we built a slam system based on rpr features, and verified it on both simulation and real datasets.
-
+abstract: Straight line features have been increasingly utilized in visual SLAM and 3D reconstruction systems. The straight lines’ parameterization, parallel constraint, and co-planar constraint are studied in many recent works. In this paper, we explore the novel intersection constraint of straight lines for structure reconstruction. First, the Ray-Point-Ray(RPR) feature is proposed to represent the intersection of two straight lines. Second, an efficient solver is designed for the camera pose estimation, which leverages the perpendicularity and intersection of straight lines. Third, we build a stereo visual odometry based on RPR features, and evaluate it on
+the simulation and real datasets. The experimental results verify that the intersection constraints from RPR can effectively improve the accuracy and efficiency of line-based SLAM and reconstruction system.
 
 # Summary. An optional shortened abstract.
 summary: 
