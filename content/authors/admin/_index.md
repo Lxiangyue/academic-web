@@ -14,12 +14,12 @@ organizations:
 #  url: https://ev.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include 3D Reconstruction, SLAM, AR, and Deep Learning.
+bio: My research interests include SLAM, AR, 3D Reconstruction, and Deep Learning.
 
 # Interests to show in About widget
 interests:
-- 3D Reconstruction
 - SLAM & AR
+- 3D Reconstruction
 - Deep Learning
 
 # Education to show in About widget
@@ -77,5 +77,5 @@ user_groups:
 - Principal Investigators
 ---
 
-My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at School of Software, [Beihang University](https://ev.buaa.edu.cn/) under the supervision of Professor [You Song](http://t.beihangsoft.cn/songyou/). My research interests focus on 3D Reconstruction, SLAM, AR, and Deep Learning. And I have done projects and researches involving SLAM, GAN, and Instance Segmentation during my postgraduate. Please feel free to contact me if you have any questions.
+My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at School of Software, [Beihang University](https://ev.buaa.edu.cn/) under the supervision of Professor [You Song](http://t.beihangsoft.cn/songyou/). My research interests focus on SLAM, AR, 3D Reconstruction, Deep Learning. And I have done projects and researches involving visual SLAM, GAN, and Instance Segmentation during my postgraduate. Please feel free to contact me if you have any questions.
 
