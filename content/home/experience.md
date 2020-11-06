@@ -33,7 +33,7 @@ experience:
     Responsibilities include:
     * Data analysis, pre-processing, and post-processing.
     * Do the research on models and tricks.
-    * Implement some models and tricks (eg. MaskRCNN, PointRend, focal loss, TTA).
+    * Implement some models and tricks (eg. MaskRCNN, PointRend, focal loss, TTA, etc).
   location: 
   title: Competition
 

@@ -29,7 +29,7 @@ abstract: Compared with MS-COCO datasets, the 3D FUTURE has a larger proportion 
 
 
 # Summary. An optional shortened abstract.
-summary: In this report, we present the main details of our scheme that utilizes reasonable data processing, effective models, model ensemble, and other strategies, which gradually increase the leaderboard score step by step, allowing us to achieve the 2nd place in this competition.
+summary: In this report, we present the main details of our scheme that utilizes reasonable data processing, effective models, model ensemble, and other strategies, which gradually increase the leaderboard score step by step.
 
 tags:
 - Source Themes
