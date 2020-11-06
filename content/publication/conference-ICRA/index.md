@@ -28,7 +28,7 @@ abstract: Straight line features have been increasingly utilized in visual SLAM 
 
 
 # Summary. An optional shortened abstract.
-summary: In this paper, we explore the novel intersection constraint of straight lines for structure reconstruction. First, the Ray-Point-Ray feature is proposed to represent the intersection of two straight lines. Second, an efficient solver is designed for the camera pose estimation, which leverages the perpendicularity and intersection of straight lines. Third, we build a stereo visual odometry based on RPR features, and evaluate it on the simulation and real datasets.
+summary: In this paper, we explore the novel intersection constraint of straight lines for structure reconstruction. And (1) Ray-Point-Ray feature is proposed to represent the intersection of two straight lines. (2) An efficient solver is designed for the camera pose estimation. (3) We build a stereo visual odometry based on RPR features, and evaluate it on simulation and real datasets.
 
 tags:
 - Source Themes
