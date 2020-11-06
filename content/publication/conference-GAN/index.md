@@ -29,7 +29,7 @@ summary: A novel sky map repair method based on generative adversarial networks 
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Custom Link

@@ -3,6 +3,7 @@ title: "Structure Reconstruction Using Ray-Point-Ray Features: Representation, T
 authors:
 - Yijia He
 - admin
+- Xiao Liu
 - Ji Zhao
 author_notes:
 - "Equal contribution"
@@ -27,11 +28,11 @@ abstract: Straight line features have been increasingly utilized in visual SLAM 
 
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: In this paper, we explore the novel intersection constraint of straight lines for structure reconstruction. First, the Ray-Point-Ray feature is proposed to represent the intersection of two straight lines. Second, an efficient solver is designed for the camera pose estimation, which leverages the perpendicularity and intersection of straight lines. Third, we build a stereo visual odometry based on RPR features, and evaluate it on the simulation and real datasets.
 
 tags:
 - Source Themes
-featured: true
+featured: false
 
 links:
 # - name: Custom Link
