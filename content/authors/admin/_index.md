@@ -14,23 +14,23 @@ organizations:
 #  url: https://ev.buaa.edu.cn/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include SLAM, AR, 3D Reconstruction, and Deep Learning.
+bio: My research interests include Visual SLAM, Dense Reconstruction, and Deep Learning.
 
 # Interests to show in About widget
 interests:
-- SLAM & AR
-- 3D Reconstruction
+- Visual SLAM 
+- Dense Reconstruction
 - Deep Learning
 
 # Education to show in About widget
 education:
   courses:
-  - course: Master in School of Software
+  - course: Master of Software Engineering 
     institution: Beihang University
-    year: 2018
-  - course: BSc in School of Software
+    year: Sep 2018 - Present
+  - course: B.E. of Software Engineering
     institution: Northeast Normal University
-    year: 2014
+    year: Sep 2014 - Jun 2018
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -77,5 +77,5 @@ user_groups:
 - Principal Investigators
 ---
 
-My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at School of Software, [Beihang University](https://ev.buaa.edu.cn/) under the supervision of Professor [You Song](http://t.beihangsoft.cn/songyou/). My research interests focus on 3D Vision and Computer Graphics, including SLAM, AR, 3D Reconstruction and GAN, Instance Segmentation. Please feel free to contact me if you have any questions.
+My name is Xiangyue(Emma) Liu, 刘襄阅 in Chinese. I'm currently a Master student at School of Software, [Beihang University](https://ev.buaa.edu.cn/) under the supervision of Professor [You Song](http://t.beihangsoft.cn/songyou/). My research interests focus on 3D Vision, including Visual SLAM, Dense Reconstruction, and Deep Learning. Please feel free to contact me if you have any questions.
 
