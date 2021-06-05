@@ -77,5 +77,5 @@ user_groups:
 - Principal Investigators
 ---
 
-My name is Xiangyue Liu. I'm currently a Master student at School of Software, Beihang University. My research interests focus on 3D Vision, including Visual SLAM, Dense Reconstruction, and Deep Learning. Please feel free to contact me if you are interested.
+My name is Xiangyue Liu. I'm currently a Master student at School of Software, Beihang University. My research interests focus on 3D Vision, including Visual SLAM, Dense Reconstruction, and Deep Learning. Please feel free to contact me if you are interested~
 
